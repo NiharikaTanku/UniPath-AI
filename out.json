@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Newcastle University",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 140,
+    "rating": 4.5,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "World-ranked, World top 140 university (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.ncl.ac.uk/",
+    "apply_link": "https://www.ncl.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Edinburgh",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 20,
+    "rating": 4.8,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 20 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.ed.ac.uk/",
+    "apply_link": "https://www.ed.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Manchester",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 27,
+    "rating": 4.7,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 30 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.manchester.ac.uk/",
+    "apply_link": "https://www.manchester.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Bristol",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 44,
+    "rating": 4.6,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 50 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.bristol.ac.uk/",
+    "apply_link": "https://www.bristol.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Leeds",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 93,
+    "rating": 4.4,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 100 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.leeds.ac.uk/",
+    "apply_link": "https://www.leeds.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Glasgow",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 76,
+    "rating": 4.5,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 100 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.gla.ac.uk/",
+    "apply_link": "https://www.gla.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Sheffield",
+    "city": "Sheffield",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 83,
+    "rating": 4.4,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 100 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.sheffield.ac.uk/",
+    "apply_link": "https://www.sheffield.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Warwick",
+    "city": "Coventry",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 54,
+    "rating": 4.6,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 60 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.warwick.ac.uk/",
+    "apply_link": "https://www.warwick.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Bath",
+    "city": "Bath",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 64,
+    "rating": 4.5,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 70 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.bath.ac.uk/",
+    "apply_link": "https://www.bath.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Exeter",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 93,
+    "rating": 4.4,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 100 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.exeter.ac.uk/",
+    "apply_link": "https://www.exeter.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Southampton",
+    "city": "Southampton",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 91,
+    "rating": 4.4,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 100 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.southampton.ac.uk/",
+    "apply_link": "https://www.southampton.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Nottingham",
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 103,
+    "rating": 4.3,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 100 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.nottingham.ac.uk/",
+    "apply_link": "https://www.nottingham.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Leicester",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 114,
+    "rating": 4.2,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 120 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.le.ac.uk/",
+    "apply_link": "https://www.le.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of Aberdeen",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 126,
+    "rating": 4.1,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 130 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.abdn.ac.uk/",
+    "apply_link": "https://www.abdn.ac.uk/study/apply/"
+  },
+  {
+    "name": "University of St Andrews",
+    "city": "St Andrews",
+    "country": "United Kingdom",
+    "type": "Public",
+    "domain": "All",
+    "rank": 134,
+    "rating": 4.0,
+    "degrees": [
+      "BA (Hons) Marketing Management"
+    ],
+    "fees_inr": "Not available",
+    "fees_usd": "Not available",
+    "admission_status": "Open",
+    "deadline": "Not available",
+    "required_exams": [
+      "GCSEs, A-levels"
+    ],
+    "scholarships_available": "Yes",
+    "highlights": [
+      "Top 140 university in the world (QS World University Rankings 2026)"
+    ],
+    "website": "https://www.st-andrews.ac.uk/",
+    "apply_link": "https://www.st-andrews.ac.uk/study/apply/"
+  }
+]
